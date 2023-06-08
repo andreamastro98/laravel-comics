@@ -20,4 +20,6 @@ Laravel comincs | Home
     <button>load more</button>
 </div>
 
+@include ('partials.fastLink')
+
 @endSection

@@ -64,9 +64,9 @@ $menuLinks = array(
             <div>
                 <ul>
                     @foreach($menuLinks as $elem)
-                    <li>
-                        <a href="#"> {{$elem['name']}} </a>
-                    </li>
+                        <li>
+                            <a href="#"> {{$elem['name']}} </a>
+                        </li>
                     @endforeach
 
                 </ul>
